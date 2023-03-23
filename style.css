@@ -1,0 +1,32 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.caixa{
+	position: relative;
+    width: 940px;
+    margin: 10px auto;
+
+}
+
+body{
+background: #8AFF96;
+
+
+}
+
+header{
+       strong;
+       background: #00FF0A;
+       color: white;
+       font-size: 40px;
+       padding: 20px;
+}
+
+ul {
+   position: absolute;
+    top: 90px;
+    right: 0px;
+
+}
